@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Study\3rd Semester\COAL\Project\AVR\AVR\Release</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\delayMacro.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\Release\AVR.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AVR.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AVR.map</FILE>
+  <FILE>AVR.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MainLoop><FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\main.asm</FILE><LINE>42</LINE></MainLoop>
+  <Slot1_Full><FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\main.asm</FILE><LINE>50</LINE></Slot1_Full>
+  <Slot1_Free><FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\main.asm</FILE><LINE>54</LINE></Slot1_Free>
+  <Slot2_Full><FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\main.asm</FILE><LINE>64</LINE></Slot2_Full>
+  <Slot2_Free><FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\main.asm</FILE><LINE>68</LINE></Slot2_Free>
+  <Check_Slot2_for_Parking><FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\main.asm</FILE><LINE>78</LINE></Check_Slot2_for_Parking>
+  <Parking_Allowed><FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\main.asm</FILE><LINE>92</LINE></Parking_Allowed>
+  <Parking_NotAllowed><FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\main.asm</FILE><LINE>86</LINE></Parking_NotAllowed>
+  <End_Parking_Check><FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\main.asm</FILE><LINE>96</LINE></End_Parking_Check>
+  <Check_GateLights><FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\main.asm</FILE><LINE>106</LINE></Check_GateLights>
+  <Continue><FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\main.asm</FILE><LINE>118</LINE></Continue>
+  <Gate_Break><FILE>D:\Study\3rd Semester\COAL\Project\AVR\AVR\main.asm</FILE><LINE>112</LINE></Gate_Break>
+ </LABELS>
+</ASSEMBLER_INFO>
